@@ -13,7 +13,8 @@ I learned the stages of adding a file to git. On top of that, I learned how to c
 
 ### Sample Code from Project
 
-Below is some sample code from the project, that highlights the main points and functions associated with it. 
+Below is some sample code from the project that highlights the main points and functions associated with it. 
 
+![git-lab2](https://user-images.githubusercontent.com/105069118/171968278-74b8ba95-c190-43df-810a-4c559c0416c9.png)
 
 ### [Back to the Home Page](http://uo-cit-bradyr57.github.io/bradyr57.github.io/)
